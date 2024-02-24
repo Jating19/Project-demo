@@ -1,4 +1,4 @@
 # Project-demo
 This is my first Repository
 <br>
-Author Name - Jatin Gupta
+Author Name - (Jatin Gupta)
